@@ -1,0 +1,15 @@
+.header {
+  padding: 3rem 0;
+  text-align: center;
+  color: var(--surface);
+  background: var(--dark);
+}
+
+.header h1 {
+  font-size: clamp(1.75rem, 5vw, 2.5rem);
+}
+
+.header p {
+  margin-top: 0.5rem;
+  opacity: 0.9;
+}
